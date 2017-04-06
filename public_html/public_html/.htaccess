@@ -1,0 +1,4 @@
+RewriteEngine on
+
+RewriteRule ^client.html$ client.php?components=client [L]
+RewriteRule ^quen-mat-khau/hash-([a-zA-Z0-9=]+).html$ index.php?action=$1 [L] 

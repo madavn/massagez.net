@@ -1,0 +1,307 @@
+# Webalizer V2.21-02 Incremental Data - 01/06/2017 22:58:59
+2017 1 6 22 58 59
+6157 6150 19 44 10 11 118895417 6011 45 0
+2 1 2727 1 6
+1212 1212 64432995 6 1131 8
+4841 4834 41005907 6 4820 32
+82 82 13055482 5 58 3
+3 3 868 2 0 0
+16 16 399297 5 2 2
+3 3 868 2 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+78 78 13052438 57
+0 0 0 0
+0 0 0 0
+2 2 554 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+17 17 12173 17
+1 1 314 0
+0 0 0 0
+2 2 591 0
+6 6 167250 1
+0 0 0 0
+0 0 0 0
+1 1 277 0
+3 3 2767 1
+1964 1960 26399620 1948
+1 1 314 0
+399 399 13626947 347
+1 1 314 0
+2727 2724 14490435 2723
+132 132 103365 132
+2 2 591 0
+821 821 51037467 785
+0
+0
+0
+6150
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+0
+0
+0
+0
+0
+0
+3
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/controlpanel/views/font/DXI1ORHCpsQm3Vp6mXoaTXhCUOGz7vYGh680lGh-uXM.woff
+0 1 0 21712 0 0
+/
+0 6011 0 115919335 45 34
+/controlpanel/views/js/bootstrap.min.js
+0 1 0 7601 0 0
+/views/css/style.css
+0 7 0 10701 0 0
+/views/css/ace-fonts.css
+0 4 0 2492 0 0
+/controlpanel/views/css/bootstrap.min.css
+0 1 0 16365 0 0
+/views/js/functions.js
+0 4 0 19949 0 0
+/views/js/jquery-2.0.3.min.js
+0 4 0 118728 0 0
+/views/css/font-awesome.min.css
+0 6 0 28475 0 0
+/controlpanel/views/css/ace.min.css
+0 1 0 44048 0 0
+/views/js/jquery-1.10.2.min.js
+0 6 0 198914 0 0
+/controlpanel/views/css/font-awesome.min.css
+0 1 0 4746 0 0
+/controlpanel/views/css/style.css
+0 1 0 284 0 0
+/views/font/fontawesome-webfont.woff
+0 9 0 592229 0 0
+/controlpanel/views/css/font-awesome.min.v4.css
+0 1 0 5670 0 0
+/admin.php
+0 13 0 26646 0 0
+/views/js/jquery.custom.js
+0 4 0 27525 0 0
+/controlpanel/views/font/cJZKeOuBrn4kERxqtaUH3T8E0i7KZn-EPnyo3HZu7kw.woff
+0 1 0 21014 0 0
+/robots.txt
+0 13 0 3786 0 0
+/controlpanel/views/js/jquery.custom.js
+0 2 0 4599 0 0
+/favicon.ico
+0 2 0 43451 0 0
+/views/js/ace.min.js
+0 4 0 12321 0 0
+/controlpanel/views/js/jquery-2.0.3.min.js
+0 1 0 29682 0 0
+/views/font/DXI1ORHCpsQm3Vp6mXoaTXhCUOGz7vYGh680lGh-uXM.woff
+0 1 0 21713 0 0
+/views/img/h2.jpg
+0 2 0 239902 0 0
+/controlpanel/views/js/functions.js
+0 1 0 3612 0 0
+/controlpanel/views/css/datepicker.css
+0 1 0 1827 0 0
+/views/css/bootstrap.min.css
+0 6 0 98207 0 0
+/views/css/ace.min.css
+0 8 0 352343 0 0
+/controlpanel/views/js/ace.min.js
+0 1 0 3081 0 0
+/controlpanel/views/js/jquery.html5uploader.min.js
+0 1 0 1338 0 0
+/views/js/jquery.colorbox-min.js
+0 4 0 19725 0 0
+/controlpanel/views/js/select2.min.js
+0 1 0 18652 0 0
+/controlpanel/views/css/select2.css
+0 1 0 3624 0 0
+/views/font/fontawesome-webfont.ttf
+0 1 0 65982 0 0
+/banner/17/header-dieuthuyen.png
+0 6 0 255938 0 0
+/controlpanel/views/js/bootstrap-datepicker.min.js
+0 1 0 6087 0 0
+/controlpanel/views/css/ace-fonts.css
+0 1 0 623 0 0
+/views/js/bootstrap.min.js
+0 4 0 30402 0 0
+/views/css/colorbox.css
+0 4 0 7155 0 0
+/banner/17/header-massage.png
+0 6 0 493660 0 0
+/controlpanel/views/font/fontawesome-webfont.woff
+0 1 0 65804 0 0
+/views/css/font-awesome.min.v4.css
+0 4 0 22812 0 0
+/views/font/cJZKeOuBrn4kERxqtaUH3T8E0i7KZn-EPnyo3HZu7kw.woff
+0 1 0 21014 0 0
+# End Of Table - urls
+# -sites- (monthly)
+120.138.68.219
+0 2 2 4500 2 1483402807
+/
+66.249.82.104
+0 72 72 406358 2 1483341839
+/
+66.249.82.106
+0 72 72 12704887 2 1483341841
+/
+66.249.82.108
+0 62 62 213249 2 1483341842
+/
+66.249.71.154
+0 1 1 314 0 0
+-
+52.86.176.3
+0 7 7 1939 0 0
+-
+66.249.71.73
+0 1 1 314 0 0
+-
+14.167.233.9
+0 821 821 51037467 4 1483314005
+/
+103.199.33.221
+0 77 77 13050188 1 1483402794
+/
+123.125.71.117
+0 1 1 277 0 0
+-
+171.246.30.65
+0 4832 4825 40995181 28 1483390931
+/
+38.99.82.191
+0 2 2 18617 1 1483640077
+/
+38.99.82.192
+0 7 7 213079 0 0
+-
+157.55.39.187
+0 1 1 314 0 0
+-
+66.249.79.85
+0 1 1 314 0 0
+-
+113.161.174.11
+0 191 191 78919 1 1483296585
+/
+123.125.71.95
+0 1 1 2213 1 1483456939
+/
+66.249.66.183
+0 1 1 314 0 0
+-
+113.161.145.110
+0 5 5 166973 1 1483614862
+/
+# End Of Table - sites (monthly)
+# -sites- (daily)
+52.86.176.3
+0 2 2 554 0 0
+-
+66.249.71.73
+0 1 1 314 0 0
+-
+# End Of Table - sites (daily)
+# -referrers- 
+- (Direct Request)
+0 22
+http://dieuthuyen.massagez.net/controlpanel/views/css/ace-fonts.css
+0 2
+http://dieuthuyen.massagez.net/controlpanel/views/css/font-awesome.min.v4.css
+0 1
+http://dieuthuyen.massagez.net/views/css/colorbox.css
+0 3
+http://dieuthuyen.massagez.net/admin.php
+0 27
+http://massagez.net/
+0 2
+http://dieuthuyen.massagez.net/views/css/style.css
+0 1
+http://dieuthuyen.massagez.net/views/css/font-awesome.min.v4.css
+0 3
+http://dieuthuyen.massagez.net/
+0 6092
+http://dieuthuyen.massagez.net/views/css/font-awesome.min.css
+0 4
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)
+0 2
+Mozilla/5.0 (Linux; Android 6.0; F3216 Build/36.0.B.2.109) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.91 Mobile 
+0 407
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safa
+0 5
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+0 4
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+0 816
+Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+0 1
+Mozilla/5.0 (iPhone; CPU iPhone OS 8_1_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12B466
+0 77
+Mozilla/5.0 (X11; U; Linux x86_64; en-US) AppleWebKit/533.3 (KHTML, like Gecko) Qt/4.7.1 Safari/533.3
+0 9
+Mozilla/5.0 (Windows NT 6.2; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1667.0 Safari/537.36
+0 2
+ia_archiver
+0 7
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+0 4827
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames
